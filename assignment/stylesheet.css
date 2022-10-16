@@ -8,16 +8,19 @@ body{
     background-color:oldlace;
 }
 
+/* Add background and text color for info div */
 .info{
     background-color: cornflowerblue;
     color:wheat;
 }
 
+/* Add background and text color for bikeInfo div */
 .bikeInfo{
     background-color: indigo;
     color:goldenrod;
 }
 
+/* Add background color, border, font and spacial formatting for infoContainer div */
 .infoContainer{
     background-color: white;
     border-style:solid;
@@ -28,6 +31,7 @@ body{
     margin-right: 15%;
 }
 
+/* Manage image width */
 .bike{
     width: 60%;
 }
